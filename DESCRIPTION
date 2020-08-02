@@ -1,0 +1,16 @@
+Package: documentarFunciones
+Title: Este paquete tiene una función de ejemplo que documentaremos durante 
+  el workshop de CDSB2020
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Alejandro",
+           family = "Reyes",
+           role = c("aut", "cre"),
+           email = "alejandro.reyes.ds@gmail.copm",
+           comment = c(ORCID = "0000-0001-8717-6612"))
+Description: Este paquete tiene una función de ejemplo que documentaremos
+  durante el workshop de CDSB2020.
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
